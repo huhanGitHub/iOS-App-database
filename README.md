@@ -14,7 +14,7 @@ If this dataset benefits your research, we hope you cite our paper.
 
   title={A First Look at On-device Models in iOS Apps},
   
-  author={Hu, Han and Huang, Yujin and Chen, Qiuyuan and Zhuo, Terry Tue and Chen, Chunyang},
+  author={Hu, Han and Huang, Yujin and Chen, Qiuyuan and Zhuo, Terry Yue and Chen, Chunyang},
   
   journal={arXiv preprint arXiv:2307.12328},
   
