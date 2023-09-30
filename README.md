@@ -1,5 +1,7 @@
 # iOS-App-database
-An iOS app database, which is first collected and used in the paper 'A First Look at On-device Models in iOS Apps'.
+An iOS app database, which is first collected and used in the paper 'A First Look at On-device Models in iOS Apps'. 
+
+The paper has been accepted by TOSEM.
 
 # Data Source
 This is the database [Google Drive Link](https://drive.google.com/drive/folders/1W_d7dCtLjbsULumlrInNH3lfJb-3vcRf?usp=sharing) 
