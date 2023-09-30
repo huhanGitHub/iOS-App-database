@@ -10,13 +10,27 @@ We demonstrate how to download iOS source files in Section 3.2 iOS App Collectio
 
 If this dataset benefits your research, we hope you cite our paper. 
 
-@article{hu2023first,
+@article{10.1145/3617177,
 
-  title={A First Look at On-device Models in iOS Apps},
-  
-  author={Hu, Han and Huang, Yujin and Chen, Qiuyuan and Zhuo, Terry Yue and Chen, Chunyang},
-  
-  journal={arXiv preprint arXiv:2307.12328},
-  
-  year={2023}
+author = {Hu, Han and Huang, Yujin and Chen, Qiuyuan and zhuo, Terry Yue and Chen, Chunyang},
+
+title = {A First Look at On-Device Models in IOS Apps},
+
+year = {2023},
+
+publisher = {Association for Computing Machinery},
+
+address = {New York, NY, USA},
+
+issn = {1049-331X},
+
+url = {https://doi.org/10.1145/3617177},
+
+doi = {10.1145/3617177},
+
+journal = {ACM Trans. Softw. Eng. Methodol.},
+
+month = {aug},
+
+keywords = {on-device models, mobile, iOS, iPhone, adversarial attack}
 }
